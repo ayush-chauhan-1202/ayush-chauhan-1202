@@ -96,9 +96,9 @@ Imaging systems, industrial data, physics-aware ML, scientific AI
 ⸻
 
 📫 Let’s Connect
-	•	LinkedIn: (add your link)
+	•	LinkedIn: ayush-linkedin
 	•	GitHub: You’re already here 🙂
-	•	Email: (optional)
+	•	Email: ayushchauhan1202@gmail.com
 
 ⸻
 
